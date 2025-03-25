@@ -1,0 +1,4 @@
+cryptography
+sentence-transformers
+nltk
+numpy
