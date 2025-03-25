@@ -1,4 +1,2 @@
 cryptography
-sentence-transformers
-nltk
-numpy
+ollama
