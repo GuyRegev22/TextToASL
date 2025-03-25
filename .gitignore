@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore database files
 *.db
 *.sqlite
@@ -20,3 +21,27 @@ venv/
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+=======
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+>>>>>>> aeab024 (An update of the translating system)
